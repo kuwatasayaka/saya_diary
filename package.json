@@ -1,10 +1,10 @@
 {
-  "name": "Diary",
+  "name": "saya_diary",
   "version": "1.0.0",
   "description": "A starter project for Jekyll",
   "main": "index.js",
   "repository": "https://github.com/kuwatasayaka/saya_diary",
-  "author": "Artem Sheludko",
+  "author": "Sayaka",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.13",
