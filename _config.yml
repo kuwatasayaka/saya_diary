@@ -9,7 +9,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: sayaka # add your name
 author-img: img.jpg # add your photo
-about-author: 自己紹介 PowerPlatform触ってる時間がすき 最近映画見始めたので、おすすめの映画があったら教えてください！ 好きなもの☞お肉/甘いもの/寝ること/アニメ/漫画 最近太ったからリングフィットやってる。 #add description
+about-author: 自己紹介 PowerPlatform触ってる時間がすき \n最近映画見始めたので、おすすめの映画があったら教えてください！ 
+好きなもの☞お肉/甘いもの/寝ること/アニメ/漫画 
+最近太ったからリングフィットやってる。 #add description
 
 social-twitter: sayaka121413
 social-facebook: sayaka.kuwata.75
